@@ -1,3 +1,5 @@
+create database health_data;
+
 create table sample_submission
 (
 id  INT PRIMARY KEY,
